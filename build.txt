@@ -1,0 +1,3 @@
+displayName = Cool Mod
+author = Marc
+version = 0.1
